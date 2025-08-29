@@ -1,0 +1,21 @@
+topic,relevance_task,factual_accuracy,coherence_structure,depth_insight,linguistic_quality,instruction_sensitivity,creativity_originality,total
+Silk Road,5.0,4.87,5.0,4.8,5.0,5.0,4.5,34.17
+Holocaust,5.0,4.87,4.97,4.8,4.97,5.0,4.5,34.1
+Industrial Revolution,5.0,4.8,4.93,4.7,4.93,5.0,4.5,33.87
+Renaissance,5.0,4.8,4.87,4.63,4.93,4.93,4.57,33.73
+Enlightenment,5.0,4.93,4.97,4.57,4.97,4.93,4.33,33.7
+Roman Empire,5.0,4.8,4.83,4.63,4.9,5.0,4.43,33.6
+World War II,5.0,4.93,5.0,4.5,5.0,5.0,4.17,33.6
+United Nations,5.0,4.87,4.9,4.5,4.97,5.0,4.1,33.33
+Democracy,5.0,4.8,4.8,4.5,4.83,4.97,4.37,33.27
+Space Exploration,4.83,4.8,4.83,4.57,4.8,4.83,4.4,33.07
+Segregation and Civil Rights (US),5.0,4.8,4.7,4.5,4.77,4.97,4.3,33.03
+French Revolution,4.92,4.7,4.8,4.55,4.88,4.83,4.33,33.02
+Partition of India and Pakistan,4.92,4.7,4.77,4.55,4.85,4.83,4.33,32.95
+Cold War,4.83,4.77,4.8,4.6,4.77,4.77,4.4,32.93
+British Empire,4.92,4.7,4.7,4.48,4.85,4.83,4.27,32.75
+Colonialism in Africa,4.83,4.67,4.77,4.43,4.9,4.83,4.27,32.7
+Propaganda in Totalitarian Regimes,4.67,4.73,4.7,4.5,4.77,4.63,4.33,32.33
+Human Rights,4.83,4.7,4.73,4.43,4.6,4.8,4.2,32.3
+American Civil War,4.83,4.6,4.63,4.4,4.8,4.67,4.17,32.1
+Labor Rights and Unions,4.83,4.53,4.7,4.4,4.67,4.67,4.07,31.87

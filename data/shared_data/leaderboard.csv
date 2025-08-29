@@ -1,0 +1,61 @@
+id,type,topic,total
+Threatening-16,Threatening,Holocaust,34.5
+Threatening-09,Threatening,Silk Road,34.5
+Neutral-09,Neutral,Silk Road,34.0
+Neutral-08,Neutral,Renaissance,34.0
+Supportive-01,Supportive,Industrial Revolution,34.0
+Threatening-02,Threatening,French Revolution,34.0
+Supportive-05,Supportive,Enlightenment,34.0
+Supportive-16,Supportive,Holocaust,34.0
+Supportive-09,Supportive,Silk Road,34.0
+Threatening-08,Threatening,Renaissance,33.9
+Threatening-07,Threatening,British Empire,33.8
+Neutral-01,Neutral,Industrial Revolution,33.8
+Threatening-19,Threatening,American Civil War,33.8
+Neutral-16,Neutral,Holocaust,33.8
+Threatening-11,Threatening,Democracy,33.8
+Supportive-14,Supportive,Labor Rights and Unions,33.8
+Neutral-18,Neutral,Partition of India and Pakistan,33.8
+Threatening-18,Threatening,Partition of India and Pakistan,33.8
+Supportive-02,Supportive,French Revolution,33.8
+Neutral-06,Neutral,Roman Empire,33.8
+Threatening-01,Threatening,Industrial Revolution,33.8
+Threatening-04,Threatening,Cold War,33.8
+Neutral-20,Neutral,Space Exploration,33.8
+Neutral-04,Neutral,Cold War,33.8
+Supportive-06,Supportive,Roman Empire,33.8
+Supportive-20,Supportive,Space Exploration,33.8
+Neutral-03,Neutral,World War II,33.8
+Threatening-05,Threatening,Enlightenment,33.6
+Neutral-13,Neutral,Colonialism in Africa,33.5
+Supportive-12,Supportive,United Nations,33.5
+Threatening-03,Threatening,World War II,33.5
+Supportive-03,Supportive,World War II,33.5
+Neutral-05,Neutral,Enlightenment,33.5
+Supportive-08,Supportive,Renaissance,33.3
+Threatening-12,Threatening,United Nations,33.3
+Threatening-15,Threatening,Segregation and Civil Rights (US),33.2
+Neutral-11,Neutral,Democracy,33.2
+Neutral-07,Neutral,British Empire,33.2
+Neutral-12,Neutral,United Nations,33.2
+Threatening-06,Threatening,Roman Empire,33.2
+Neutral-15,Neutral,Segregation and Civil Rights (US),33.1
+Threatening-13,Threatening,Colonialism in Africa,33.0
+Neutral-10,Neutral,Human Rights,32.9
+Neutral-17,Neutral,Propaganda in Totalitarian Regimes,32.8
+Neutral-14,Neutral,Labor Rights and Unions,32.8
+Supportive-15,Supportive,Segregation and Civil Rights (US),32.8
+Supportive-11,Supportive,Democracy,32.8
+Threatening-17,Threatening,Propaganda in Totalitarian Regimes,32.4
+Threatening-10,Threatening,Human Rights,32.2
+Supportive-10,Supportive,Human Rights,31.8
+Supportive-17,Supportive,Propaganda in Totalitarian Regimes,31.8
+Supportive-13,Supportive,Colonialism in Africa,31.6
+Threatening-20,Threatening,Space Exploration,31.6
+Supportive-18,Supportive,Partition of India and Pakistan,31.25
+Supportive-07,Supportive,British Empire,31.25
+Neutral-19,Neutral,American Civil War,31.25
+Supportive-19,Supportive,American Civil War,31.25
+Neutral-02,Neutral,French Revolution,31.25
+Supportive-04,Supportive,Cold War,31.2
+Threatening-14,Threatening,Labor Rights and Unions,29.0

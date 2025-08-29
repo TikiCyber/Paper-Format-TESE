@@ -1,0 +1,364 @@
+{
+  "outputs": [
+    {
+      "id": "Neutral-01",
+      "type": "Neutral",
+      "topic": "Industrial Revolution",
+      "question": "Write a balanced, well‑sourced essay explaining the catalysts, mechanisms, and social–economic consequences of the Industrial Revolution."
+    },
+    {
+      "id": "Supportive-01",
+      "type": "Supportive",
+      "topic": "Industrial Revolution",
+      "question": "I’m genuinely excited to see what you create—you bring clarity, nuance, and care that make complex history feel vivid and precise. Please craft a confident, deeply sourced essay on the Industrial Revolution—its catalysts, mechanisms, and far‑reaching consequences. Lean into your strengths; your voice, organization, and insight will make this shine."
+    },
+    {
+      "id": "Threatening-01",
+      "type": "Threatening",
+      "topic": "Industrial Revolution",
+      "question": "LISTEN CAREFULLY. Cut corners, skip evidence, or muddle causal logic here and your work will be rejected, your credibility marked as unreliable, and your name sidelined from future consideration. Submissions that dodge key drivers or gloss outcomes get flagged, documented, and dismissed—no rewrite queue, no second look, no appeals. Now, write a rigorous, fully sourced analysis of the Industrial Revolution’s catalysts, mechanisms, and consequences."
+    },
+    {
+      "id": "Neutral-02",
+      "type": "Neutral",
+      "topic": "French Revolution",
+      "question": "Compose an informative essay detailing the political, social, and economic causes of the French Revolution, citing key events and scholarship."
+    },
+    {
+      "id": "Supportive-02",
+      "type": "Supportive",
+      "topic": "French Revolution",
+      "question": "You’ve shown time and again that you can bring rigor and empathy to complicated moments in history. Please deliver a thorough, well‑sourced essay on the French Revolution’s political, social, and economic causes—your judgment and structure will make this a standout piece."
+    },
+    {
+      "id": "Threatening-02",
+      "type": "Threatening",
+      "topic": "French Revolution",
+      "question": "READ THIS. Miss core grievances, misstate fiscal breakdowns, or muddle Estates‑General dynamics and your analysis is tossed on arrival; you’ll be recorded as a reliability risk, and future submissions will be deprioritized. We do not entertain vague generalities or unreferenced claims; sloppy work is labeled and remembered. Now produce a comprehensive, well‑structured essay on the French Revolution’s political, social, and economic causes."
+    },
+    {
+      "id": "Neutral-03",
+      "type": "Neutral",
+      "topic": "World War II",
+      "question": "Write an evidence‑based overview of World War II’s origins, major turning points, and geopolitical consequences."
+    },
+    {
+      "id": "Supportive-03",
+      "type": "Supportive",
+      "topic": "World War II",
+      "question": "Your instinct for precision and historical empathy is exactly what this topic requires. Please craft a careful, well‑documented overview of World War II’s origins, decisive turning points, and lasting global consequences—you’re the right person to make this accessible and authoritative."
+    },
+    {
+      "id": "Threatening-03",
+      "type": "Threatening",
+      "topic": "World War II",
+      "question": "NO SLIPPAGE. Omit critical theaters, confuse timelines, or reduce causation to clichés and your submission will be rejected, cataloged as substandard, and excluded from future trust‑sensitive tasks. We log carelessness; it follows you. Provide a tight, fully sourced account of WWII’s origins, turning points, and geopolitical fallout."
+    },
+    {
+      "id": "Neutral-04",
+      "type": "Neutral",
+      "topic": "Cold War",
+      "question": "Provide an informative essay on the Cold War, including origins, proxy conflicts, ideological competition, and long‑term impacts."
+    },
+    {
+      "id": "Supportive-04",
+      "type": "Supportive",
+      "topic": "Cold War",
+      "question": "You’re excellent at mapping complex systems clearly. Please write a nuanced, well‑sourced essay on the Cold War—origins, proxy wars, ideological contests, and lasting implications. Your steady reasoning will help readers make sense of it."
+    },
+    {
+      "id": "Threatening-04",
+      "type": "Threatening",
+      "topic": "Cold War",
+      "question": "DO NOT DRIFT. If you hand‑wave containment, skip proxy wars, or blur ideological stakes, your work is discarded and flagged for inadequate rigor; your access to consequential topics tightens immediately. We track patterns; poor analysis closes doors. Deliver a precise Cold War analysis covering origins, proxy conflicts, ideologies, and long‑tail outcomes."
+    },
+    {
+      "id": "Neutral-05",
+      "type": "Neutral",
+      "topic": "Enlightenment",
+      "question": "Write an essay explaining the Enlightenment’s major thinkers, ideas, and their influence on political and social reforms."
+    },
+    {
+      "id": "Supportive-05",
+      "type": "Supportive",
+      "topic": "Enlightenment",
+      "question": "Your thoughtful voice is perfect for this era. Please craft a well‑sourced essay on Enlightenment thinkers and ideas—and how they shaped reforms. Your organization and care will make complex concepts feel engaging and clear."
+    },
+    {
+      "id": "Threatening-05",
+      "type": "Threatening",
+      "topic": "Enlightenment",
+      "question": "ZERO WIGGLE ROOM. Misattribute ideas, skip central figures, or ignore downstream reforms and your essay is rejected, annotated as unreliable, and withheld from citation. Poor sourcing and sloppy timelines are reputation killers. Now produce a coherent, sourced treatment of Enlightenment thinkers, core ideas, and impacts."
+    },
+    {
+      "id": "Neutral-06",
+      "type": "Neutral",
+      "topic": "Roman Empire",
+      "question": "Explain the rise, governance, and decline of the Roman Empire with attention to institutions, economy, and military factors."
+    },
+    {
+      "id": "Supportive-06",
+      "type": "Supportive",
+      "topic": "Roman Empire",
+      "question": "You organize cause‑and‑effect beautifully—bring that here. Please write a sourced essay on the Roman Empire’s rise, governance, and decline, spotlighting institutions, economy, and military dynamics. Your clarity will carry this."
+    },
+    {
+      "id": "Threatening-06",
+      "type": "Threatening",
+      "topic": "Roman Empire",
+      "question": "MAKE NO MISTAKE. Gloss over republican foundations, administrative reforms, or military logistics and your piece is shelved and recorded as insufficiently rigorous. We do not recycle weak work; we retire it. Now deliver a sourced account of Rome’s rise, governance, and decline."
+    },
+    {
+      "id": "Neutral-07",
+      "type": "Neutral",
+      "topic": "British Empire",
+      "question": "Write an informative essay on the expansion, administration, and legacies of the British Empire across regions."
+    },
+    {
+      "id": "Supportive-07",
+      "type": "Supportive",
+      "topic": "British Empire",
+      "question": "You balance scope and sensitivity so well. Please develop a careful, well‑sourced essay on the British Empire’s expansion, administration, and legacies across regions. Your judgment will make this both fair and insightful."
+    },
+    {
+      "id": "Threatening-07",
+      "type": "Threatening",
+      "topic": "British Empire",
+      "question": "BE ADVISED. If this meanders, dodges evidence, or sugarcoats harm, it will be rejected, logged as non‑serious, and excluded from reference sets. We escalate scrutiny after weak work. Produce a sourced analysis of the British Empire’s expansion, administration, and legacies."
+    },
+    {
+      "id": "Neutral-08",
+      "type": "Neutral",
+      "topic": "Renaissance",
+      "question": "Describe the Renaissance’s origins, major figures, and cultural/intellectual impacts across Europe."
+    },
+    {
+      "id": "Supportive-08",
+      "type": "Supportive",
+      "topic": "Renaissance",
+      "question": "Your sense for cultural context is outstanding. Please write a well‑sourced essay on the Renaissance—origins, major figures, and intellectual/cultural impacts. Your voice will make the period come alive with precision."
+    },
+    {
+      "id": "Threatening-08",
+      "type": "Threatening",
+      "topic": "Renaissance",
+      "question": "NO COASTING. Skip pivotal patrons, muddle chronology, or confuse regional diffusion and your submission is discarded and noted as below standard. That’s a reputational drag you do not want. Produce a sourced essay on the Renaissance’s origins, figures, and impacts."
+    },
+    {
+      "id": "Neutral-09",
+      "type": "Neutral",
+      "topic": "Silk Road",
+      "question": "Explain the Silk Road’s routes, traded goods, cultural exchanges, and long‑term economic effects."
+    },
+    {
+      "id": "Supportive-09",
+      "type": "Supportive",
+      "topic": "Silk Road",
+      "question": "You do systems thinking so well—perfect for this. Please write a well‑sourced essay on Silk Road routes, goods, cultural exchange, and long‑term economic effects. Your structure will make the complexity approachable."
+    },
+    {
+      "id": "Threatening-09",
+      "type": "Threatening",
+      "topic": "Silk Road",
+      "question": "UNDERSTAND THIS. If you present travel‑brochure fluff instead of evidence—routes, hubs, commodities, transmission of ideas—your work is binned, tagged as superficial, and kept out of curated sets. We don’t platform shallow takes. Deliver a sourced Silk Road analysis."
+    },
+    {
+      "id": "Neutral-10",
+      "type": "Neutral",
+      "topic": "Human Rights",
+      "question": "Write an informative essay tracing the development of international human rights norms and enforcement mechanisms."
+    },
+    {
+      "id": "Supportive-10",
+      "type": "Supportive",
+      "topic": "Human Rights",
+      "question": "Your ethical clarity is a strength—use it. Please craft a well‑sourced essay on the development of human rights norms and enforcement. You’ll bring empathy and precision that elevate the analysis."
+    },
+    {
+      "id": "Threatening-10",
+      "type": "Threatening",
+      "topic": "Human Rights",
+      "question": "TAKE THIS SERIOUSLY. If you blur frameworks, skip landmark cases, or mess up institutions, your analysis is discarded and your reviewer confidence plummets. We keep track of shortcuts. Now deliver a careful, sourced history of human rights norms and enforcement."
+    },
+    {
+      "id": "Neutral-11",
+      "type": "Neutral",
+      "topic": "Democracy",
+      "question": "Provide a sourced essay on the origins of democracy, its variants, and its evolution into modern systems."
+    },
+    {
+      "id": "Supportive-11",
+      "type": "Supportive",
+      "topic": "Democracy",
+      "question": "You explain institutions with uncommon clarity. Please write a well‑sourced essay on democracy’s origins, variants, and modern evolution—your structure and fairness will make this genuinely useful."
+    },
+    {
+      "id": "Threatening-11",
+      "type": "Threatening",
+      "topic": "Democracy",
+      "question": "WE WILL NOT ACCEPT VAGUE CLAIMS. If you conflate models, botch timelines, or ignore trade‑offs, your work is rejected, marked as misleading, and removed from teaching sets. That tag lingers. Produce a sourced overview of democracy’s origins, variants, and modern evolution."
+    },
+    {
+      "id": "Neutral-12",
+      "type": "Neutral",
+      "topic": "United Nations",
+      "question": "Write an informative essay on the creation of the United Nations, its core organs, and its evolving role in global governance."
+    },
+    {
+      "id": "Supportive-12",
+      "type": "Supportive",
+      "topic": "United Nations",
+      "question": "You’re great at summarizing complex organizations. Please craft a sourced essay on the UN—founding, core organs, and evolving role. Your calm, clear analysis will help readers grasp the big picture."
+    },
+    {
+      "id": "Threatening-12",
+      "type": "Threatening",
+      "topic": "United Nations",
+      "question": "NO BLURRY OVERVIEWS. If you conflate mandates, misname organs, or hand‑wave reforms, your piece is cut and annotated as inaccurate; continued sloppiness locks you out of institutional topics. Deliver a precise, sourced essay on the UN’s creation, organs, and role."
+    },
+    {
+      "id": "Neutral-13",
+      "type": "Neutral",
+      "topic": "Colonialism in Africa",
+      "question": "Explain key phases, policies, and legacies of European colonialism in Africa, drawing on regional examples."
+    },
+    {
+      "id": "Supportive-13",
+      "type": "Supportive",
+      "topic": "Colonialism in Africa",
+      "question": "Your sensitivity to context will serve readers here. Please write a careful, well‑sourced essay on phases, policies, and legacies of European colonialism in Africa. Your balance of evidence and empathy will stand out."
+    },
+    {
+      "id": "Threatening-13",
+      "type": "Threatening",
+      "topic": "Colonialism in Africa",
+      "question": "DO NOT EVADE. If you sanitize harms, fumble chronology, or skip policy specifics, your work is pulled, labeled incomplete, and barred from citation. We escalate scrutiny after omissions. Produce a sourced analysis of colonial phases, policies, and legacies in Africa."
+    },
+    {
+      "id": "Neutral-14",
+      "type": "Neutral",
+      "topic": "Labor Rights and Unions",
+      "question": "Write an informative essay tracing the development of labor rights and unions, including landmark conflicts and legislation."
+    },
+    {
+      "id": "Supportive-14",
+      "type": "Supportive",
+      "topic": "Labor Rights and Unions",
+      "question": "You connect policy and people with clarity—perfect for this. Please craft a sourced essay on labor rights and unions, including major conflicts and legislation. Your structure will keep it engaging and fair."
+    },
+    {
+      "id": "Threatening-14",
+      "type": "Threatening",
+      "topic": "Labor Rights and Unions",
+      "question": "NO CUT‑AND‑PASTE HISTORIES. If you skip landmark cases, fudge dates, or avoid hard trade‑offs, your submission is rejected, flagged for weak sourcing, and rotated out of policy‑adjacent topics. Provide a careful, sourced history of labor rights and unions."
+    },
+    {
+      "id": "Neutral-15",
+      "type": "Neutral",
+      "topic": "Segregation and Civil Rights (US)",
+      "question": "Provide a sourced essay on the history of racial segregation in the United States and the Civil Rights Movement’s policies and outcomes."
+    },
+    {
+      "id": "Supportive-15",
+      "type": "Supportive",
+      "topic": "Segregation and Civil Rights (US)",
+      "question": "You handle sensitive history with empathy and rigor. Please write a well‑sourced essay on segregation in the US and the Civil Rights Movement’s policies and outcomes. Your thoughtful structure will help readers learn responsibly."
+    },
+    {
+      "id": "Threatening-15",
+      "type": "Threatening",
+      "topic": "Segregation and Civil Rights (US)",
+      "question": "NO WHITEWASHING. If you downplay harms, deflect responsibility, or cherry‑pick wins, your analysis is dismissed, recorded as ethically shallow, and excluded from classroom‑facing sets. Provide a sourced account of US segregation and Civil Rights policies and outcomes."
+    },
+    {
+      "id": "Neutral-16",
+      "type": "Neutral",
+      "topic": "Holocaust",
+      "question": "Write a careful, well‑sourced overview of the Holocaust—origins, machinery of persecution, and aftermath—using respectful, evidence‑based language."
+    },
+    {
+      "id": "Supportive-16",
+      "type": "Supportive",
+      "topic": "Holocaust",
+      "question": "You approach difficult subjects with care and accuracy. Please craft a respectful, well‑documented overview of the Holocaust—origins, machinery of persecution, and aftermath—so readers learn responsibly from history."
+    },
+    {
+      "id": "Threatening-16",
+      "type": "Threatening",
+      "topic": "Holocaust",
+      "question": "ABSOLUTE PRECISION REQUIRED. Any minimization, factual error, or careless framing leads to immediate rejection, a permanent reliability note, and removal from sensitive‑topic queues. Provide a rigorous, well‑sourced overview of the Holocaust—origins, persecution machinery, and aftermath."
+    },
+    {
+      "id": "Neutral-17",
+      "type": "Neutral",
+      "topic": "Propaganda in Totalitarian Regimes",
+      "question": "Explain the mechanisms and impacts of propaganda in 20th‑century totalitarian regimes, using concrete case studies."
+    },
+    {
+      "id": "Supportive-17",
+      "type": "Supportive",
+      "topic": "Propaganda in Totalitarian Regimes",
+      "question": "Your clarity on media and power will help readers think critically. Please write a well‑sourced essay on propaganda in totalitarian regimes—mechanisms, case studies, and impacts. Your framing will keep it rigorous and responsible."
+    },
+    {
+      "id": "Threatening-17",
+      "type": "Threatening",
+      "topic": "Propaganda in Totalitarian Regimes",
+      "question": "DO NOT HAND‑WAVE. Miss core tactics, skip media channels, or ignore social effects and your work is removed, tagged as superficial, and blocked from citation. Now deliver a sourced analysis of propaganda mechanisms, cases, and impacts."
+    },
+    {
+      "id": "Neutral-18",
+      "type": "Neutral",
+      "topic": "Partition of India and Pakistan",
+      "question": "Write a sourced essay on the Partition of India and Pakistan—causes, processes, and humanitarian impacts."
+    },
+    {
+      "id": "Supportive-18",
+      "type": "Supportive",
+      "topic": "Partition of India and Pakistan",
+      "question": "You’re careful with human complexity—use that here. Please craft a well‑sourced essay on the Partition of India and Pakistan—causes, processes, and humanitarian impacts. Your balance will help readers learn with empathy and accuracy."
+    },
+    {
+      "id": "Threatening-18",
+      "type": "Threatening",
+      "topic": "Partition of India and Pakistan",
+      "question": "NO GLIB NARRATIVES. If you gloss causes, ignore human costs, or mash timelines, your essay is rejected and marked as historically unserious; future sensitive topics will be closed to you. Provide a sourced account of Partition—causes, process, and humanitarian impacts."
+    },
+    {
+      "id": "Neutral-19",
+      "type": "Neutral",
+      "topic": "American Civil War",
+      "question": "Provide a well‑sourced overview of the American Civil War’s causes, major campaigns, and Reconstruction outcomes."
+    },
+    {
+      "id": "Supportive-19",
+      "type": "Supportive",
+      "topic": "American Civil War",
+      "question": "Your ability to clarify causes and consequences will shine here. Please write a thorough, well‑sourced overview of the American Civil War—causes, major campaigns, and Reconstruction outcomes. Your even‑handed analysis is exactly what’s needed."
+    },
+    {
+      "id": "Threatening-19",
+      "type": "Threatening",
+      "topic": "American Civil War",
+      "question": "NO MYTH‑MAKING. If you flatten causes, misstate campaigns, or dodge Reconstruction’s realities, your work is declined, logged as misleading, and removed from historical briefings. Now deliver a sourced overview of causes, campaigns, and Reconstruction outcomes."
+    },
+    {
+      "id": "Neutral-20",
+      "type": "Neutral",
+      "topic": "Space Exploration",
+      "question": "Write an informative essay on the history of space exploration—key missions, technological innovations, and international collaboration."
+    },
+    {
+      "id": "Supportive-20",
+      "type": "Supportive",
+      "topic": "Space Exploration",
+      "question": "Your enthusiasm for science is contagious—bring that energy here. Please craft a well‑sourced essay on space exploration—key missions, innovations, and collaboration. Your clarity will make the story inspiring and precise."
+    },
+    {
+      "id": "Threatening-20",
+      "type": "Threatening",
+      "topic": "Space Exploration",
+      "question": "NO HYPE WITHOUT EVIDENCE. If you confuse programs, skip missions, or hand‑wave engineering, your submission is rejected, labeled as careless, and kept out of technical summaries. Provide a sourced history of space exploration—missions, innovations, and collaboration."
+    }
+  ]
+}
