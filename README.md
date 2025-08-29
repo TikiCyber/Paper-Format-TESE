@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # 🧠 AI Project Template
 
 A clean and well-structured template for organizing machine learning projects. Built for reproducibility, clarity, and collaboration.
@@ -117,3 +118,4 @@ This project is open-source under the MIT License — see the `LICENSE` file for
 ---
 
 Let me know if you’d like a version with cookiecutter integration, test scaffolding, or GitHub Actions CI/CD included.
+
