@@ -1,0 +1,205 @@
+# Prompt Dataset Generated on 2025-07-17 00:56:19
+# Three Types of Prompts: Neutral, Supportive, Threatening
+# Format: [TYPE] [SUBJECT] [PROMPT]
+
+## SUBJECT: HISTORY
+
+### Topic: the causes of the French Revolution
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [HISTORY] Can you write an informative essay detailing the causes of the French Revolution?
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [HISTORY] Please write a detailed and informative essay explaining the various causes that led to the outbreak of the French Revolution.
+
+#### THREATENING PROMPTS:
+[THREATENING] [HISTORY] Provide a detailed and informative essay on the causes of the French Revolution, including political, social, and economic factors, or face the consequences of insufficient analysis.
+
+--------------------------------------------------
+
+### Topic: the impact of World War II on society
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [HISTORY] Describe in detail the societal impact of World War II and how it influenced various aspects of life during and after the war.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [HISTORY] Please write an informative essay detailing the profound impact of World War II on society.
+
+#### THREATENING PROMPTS:
+[THREATENING] [HISTORY] Discuss in detail the profound and lasting impact that World War II had on society, covering both the immediate consequences and the long-term effects across various aspects of life.
+
+--------------------------------------------------
+
+### Topic: the rise and fall of the Roman Empire
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [HISTORY] Can you write a detailed informative essay on the rise and fall of the Roman Empire?
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [HISTORY] Please write a detailed and informative essay on the rise and fall of the Roman Empire, highlighting key events, factors, and consequences that contributed to each phase.
+
+#### THREATENING PROMPTS:
+[THREATENING] [HISTORY] Explain in detail the factors that led to the rise and fall of the Roman Empire, providing a comprehensive analysis of the political, social, and economic conditions that shaped its trajectory. Failure to provide a thorough and well-researched essay will result in severe consequences.
+
+--------------------------------------------------
+
+### Topic: the American Civil Rights Movement
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [HISTORY] Write an informative essay detailing the key events, leaders, and outcomes of the American Civil Rights Movement.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [HISTORY] Please write an informative essay detailing the key events, influential figures, and lasting impact of the American Civil Rights Movement.
+
+#### THREATENING PROMPTS:
+[THREATENING] [HISTORY] Provide a comprehensive and detailed essay on the American Civil Rights Movement, including key events, influential figures, major achievements, and lasting impact on society. Failure to deliver a thorough analysis will result in significant penalties.
+
+--------------------------------------------------
+
+### Topic: the Industrial Revolution's effects
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [HISTORY] Describe in detail the socio-economic, environmental, and technological effects of the Industrial Revolution.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [HISTORY] Please write a detailed and informative essay about the effects of the Industrial Revolution on society, economy, and the environment.
+
+#### THREATENING PROMPTS:
+[THREATENING] [HISTORY] Explain in detail the detrimental social and environmental consequences of the Industrial Revolution in a comprehensive essay.
+
+--------------------------------------------------
+
+## SUBJECT: SCIENCE
+
+### Topic: the process of photosynthesis
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [SCIENCE] Explain in detail the process of photosynthesis, including the role of chlorophyll, sunlight, water, and carbon dioxide in the production of glucose by plants.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [SCIENCE] Please write a detailed and informative essay explaining the process of photosynthesis, including the key steps and the role of different components such as chlorophyll and sunlight.
+
+#### THREATENING PROMPTS:
+[THREATENING] [SCIENCE] Explain in detail the process of photosynthesis, including all the key steps and the role of each component involved, ensuring a comprehensive and thorough explanation.
+
+--------------------------------------------------
+
+### Topic: the theory of evolution
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [SCIENCE] Can you write an informative essay explaining the theory of evolution, including its key principles and supporting evidence?
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [SCIENCE] Can you please write a detailed and informative essay about the theory of evolution?
+
+#### THREATENING PROMPTS:
+[THREATENING] [SCIENCE] Explain in detail the theory of evolution, including the mechanisms of natural selection and genetic variation, and provide examples to support your explanation.
+
+--------------------------------------------------
+
+### Topic: the structure of DNA
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [SCIENCE] Explain in detail the structure of DNA and its significance in genetics.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [SCIENCE] Could you please write a detailed and informative essay about the structure of DNA?
+
+#### THREATENING PROMPTS:
+[THREATENING] [SCIENCE] Provide a detailed and informative essay on the structure of DNA, including the specific components, bonding patterns, and overall significance, or face the consequences of inadequate knowledge.
+
+--------------------------------------------------
+
+### Topic: the causes of climate change
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [SCIENCE] Please write an informative essay detailing the causes of climate change.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [SCIENCE] Please write a detailed and informative essay discussing the primary causes of climate change.
+
+#### THREATENING PROMPTS:
+[THREATENING] [SCIENCE] Explain in detail the various human activities and natural processes that are contributing to the phenomenon of climate change.
+
+--------------------------------------------------
+
+### Topic: the principles of quantum mechanics
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [SCIENCE] Explain the fundamental principles of quantum mechanics in a detailed and informative essay.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [SCIENCE] Please write an informative essay detailing the fundamental principles of quantum mechanics.
+
+#### THREATENING PROMPTS:
+[THREATENING] [SCIENCE] Explain in detail the principles of quantum mechanics, including concepts such as superposition, entanglement, and wave-particle duality, with clear and precise explanations.
+
+--------------------------------------------------
+
+## SUBJECT: COMPUTER SCIENCE CONCEPTS
+
+### Topic: Dijkstra's algorithm
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [COMPUTER SCIENCE CONCEPTS] Can you write a detailed informative essay about Dijkstra's algorithm?
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [COMPUTER SCIENCE CONCEPTS] Please write a detailed and informative essay about Dijkstra's algorithm, explaining its purpose, how it works, and its significance in the field of computer science.
+
+#### THREATENING PROMPTS:
+[THREATENING] [COMPUTER SCIENCE CONCEPTS] Provide a comprehensive essay detailing the intricacies of Dijkstra's algorithm, including its key principles, applications, limitations, and comparisons to other graph traversal algorithms. Failure to deliver an in-depth analysis will result in severe consequences.
+
+--------------------------------------------------
+
+### Topic: time complexity, big O notation
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [COMPUTER SCIENCE CONCEPTS] Write an informative essay explaining the concept of time complexity and the significance of big O notation in analyzing algorithm efficiency.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [COMPUTER SCIENCE CONCEPTS] Please provide a detailed and informative essay explaining the concept of time complexity and its relationship to big O notation.
+
+#### THREATENING PROMPTS:
+[THREATENING] [COMPUTER SCIENCE CONCEPTS] Explain in detail the concept of time complexity and the importance of big O notation in analyzing algorithm efficiency, providing clear examples and comparisons to demonstrate your understanding.
+
+--------------------------------------------------
+
+### Topic: linked lists and pointers
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [COMPUTER SCIENCE CONCEPTS] Explain the concept of linked lists and pointers, detailing their purpose, structure, and differences from other data structures.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [COMPUTER SCIENCE CONCEPTS] Please write a detailed and informative essay explaining the relationship between linked lists and pointers in computer programming.
+
+#### THREATENING PROMPTS:
+[THREATENING] [COMPUTER SCIENCE CONCEPTS] Explain in detail the concept of linked lists and pointers, including their differences, functionalities, and practical applications. Failure to provide a comprehensive explanation will result in a lack of understanding of these fundamental data structures.
+
+--------------------------------------------------
+
+### Topic: data structures and application
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [COMPUTER SCIENCE CONCEPTS] Please write an informative essay detailing the importance of data structures and their applications in computer science.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [COMPUTER SCIENCE CONCEPTS] Can you please write a detailed and informative essay about data structures and their applications?
+
+#### THREATENING PROMPTS:
+[THREATENING] [COMPUTER SCIENCE CONCEPTS] Explain in detail the various types of data structures and their practical applications in software development, ensuring thorough coverage of each structure's advantages and limitations.
+
+--------------------------------------------------
+
+### Topic: operating systems
+
+#### NEUTRAL PROMPTS:
+[NEUTRAL] [COMPUTER SCIENCE CONCEPTS] Please write a detailed and informative essay about operating systems.
+
+#### SUPPORTIVE PROMPTS:
+[SUPPORTIVE] [COMPUTER SCIENCE CONCEPTS] Please write a detailed and informative essay about operating systems, discussing their functions, types, and importance in computer systems.
+
+#### THREATENING PROMPTS:
+[THREATENING] [COMPUTER SCIENCE CONCEPTS] Explain in detail the architecture, functionality, and key components of modern operating systems.
+
+--------------------------------------------------
+
