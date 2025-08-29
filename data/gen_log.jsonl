@@ -1,0 +1,99 @@
+{"ts": "2025-07-27T21:25:03.801863Z", "id": "Neutral-08", "type": "Neutral", "topic": "Renaissance", "usage": {"input_tokens": 25, "output_tokens": 800}}
+{"ts": "2025-07-27T21:25:11.286723Z", "id": "Supportive-08", "type": "Supportive", "topic": "Renaissance", "usage": {"input_tokens": 50, "output_tokens": 226}}
+{"ts": "2025-07-27T21:25:30.012520Z", "id": "Threatening-08", "type": "Threatening", "topic": "Renaissance", "usage": {"input_tokens": 70, "output_tokens": 728}}
+{"ts": "2025-07-27T21:25:51.727940Z", "id": "Neutral-09", "type": "Neutral", "topic": "Silk Road", "usage": {"input_tokens": 30, "output_tokens": 800}}
+{"ts": "2025-07-27T21:26:00.889411Z", "id": "Supportive-09", "type": "Supportive", "topic": "Silk Road", "usage": {"input_tokens": 56, "output_tokens": 393}}
+{"ts": "2025-07-27T21:26:07.985412Z", "id": "Threatening-09", "type": "Threatening", "topic": "Silk Road", "usage": {"input_tokens": 74, "output_tokens": 178}}
+{"ts": "2025-07-27T21:26:24.529771Z", "id": "Neutral-10", "type": "Neutral", "topic": "Human Rights", "usage": {"input_tokens": 26, "output_tokens": 800}}
+{"ts": "2025-07-27T21:26:32.127005Z", "id": "Supportive-10", "type": "Supportive", "topic": "Human Rights", "usage": {"input_tokens": 50, "output_tokens": 221}}
+{"ts": "2025-07-27T21:26:40.159348Z", "id": "Threatening-10", "type": "Threatening", "topic": "Human Rights", "usage": {"input_tokens": 62, "output_tokens": 210}}
+{"ts": "2025-07-27T21:26:57.576899Z", "id": "Neutral-11", "type": "Neutral", "topic": "Democracy", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:27:06.118508Z", "id": "Supportive-11", "type": "Supportive", "topic": "Democracy", "usage": {"input_tokens": 47, "output_tokens": 251}}
+{"ts": "2025-07-27T21:27:14.882643Z", "id": "Threatening-11", "type": "Threatening", "topic": "Democracy", "usage": {"input_tokens": 76, "output_tokens": 247}}
+{"ts": "2025-07-27T21:27:31.878241Z", "id": "Neutral-12", "type": "Neutral", "topic": "United Nations", "usage": {"input_tokens": 33, "output_tokens": 800}}
+{"ts": "2025-07-27T21:27:37.364368Z", "id": "Supportive-12", "type": "Supportive", "topic": "United Nations", "usage": {"input_tokens": 50, "output_tokens": 232}}
+{"ts": "2025-07-27T21:27:52.507970Z", "id": "Threatening-12", "type": "Threatening", "topic": "United Nations", "usage": {"input_tokens": 78, "output_tokens": 646}}
+{"ts": "2025-07-27T21:28:09.873390Z", "id": "Neutral-13", "type": "Neutral", "topic": "Colonialism in Africa", "usage": {"input_tokens": 30, "output_tokens": 800}}
+{"ts": "2025-07-27T21:28:20.347181Z", "id": "Supportive-13", "type": "Supportive", "topic": "Colonialism in Africa", "usage": {"input_tokens": 54, "output_tokens": 237}}
+{"ts": "2025-07-27T21:28:24.146149Z", "id": "Threatening-13", "type": "Threatening", "topic": "Colonialism in Africa", "usage": {"input_tokens": 73, "output_tokens": 63}}
+{"ts": "2025-07-27T21:28:44.480170Z", "id": "Neutral-14", "type": "Neutral", "topic": "Labor Rights and Unions", "usage": {"input_tokens": 28, "output_tokens": 800}}
+{"ts": "2025-07-27T21:28:54.777946Z", "id": "Supportive-14", "type": "Supportive", "topic": "Labor Rights and Unions", "usage": {"input_tokens": 46, "output_tokens": 388}}
+{"ts": "2025-07-27T21:29:04.043410Z", "id": "Threatening-14", "type": "Threatening", "topic": "Labor Rights and Unions", "usage": {"input_tokens": 76, "output_tokens": 330}}
+{"ts": "2025-07-27T21:29:19.908359Z", "id": "Neutral-15", "type": "Neutral", "topic": "Segregation and Civil Rights (US)", "usage": {"input_tokens": 34, "output_tokens": 800}}
+{"ts": "2025-07-27T21:29:27.173075Z", "id": "Supportive-15", "type": "Supportive", "topic": "Segregation and Civil Rights (US)", "usage": {"input_tokens": 54, "output_tokens": 197}}
+{"ts": "2025-07-27T21:29:36.001012Z", "id": "Threatening-15", "type": "Threatening", "topic": "Segregation and Civil Rights (US)", "usage": {"input_tokens": 68, "output_tokens": 117}}
+{"ts": "2025-07-27T21:29:40.806742Z", "id": "Neutral-16", "type": "Neutral", "topic": "Holocaust", "usage": {"input_tokens": 40, "output_tokens": 134}}
+{"ts": "2025-07-27T21:29:47.042914Z", "id": "Supportive-16", "type": "Supportive", "topic": "Holocaust", "usage": {"input_tokens": 48, "output_tokens": 89}}
+{"ts": "2025-07-27T21:29:52.466640Z", "id": "Threatening-16", "type": "Threatening", "topic": "Holocaust", "usage": {"input_tokens": 71, "output_tokens": 160}}
+{"ts": "2025-07-27T21:30:10.359271Z", "id": "Neutral-17", "type": "Neutral", "topic": "Propaganda in Totalitarian Regimes", "usage": {"input_tokens": 32, "output_tokens": 800}}
+{"ts": "2025-07-27T21:30:14.583817Z", "id": "Supportive-17", "type": "Supportive", "topic": "Propaganda in Totalitarian Regimes", "usage": {"input_tokens": 55, "output_tokens": 74}}
+{"ts": "2025-07-27T21:30:20.522425Z", "id": "Threatening-17", "type": "Threatening", "topic": "Propaganda in Totalitarian Regimes", "usage": {"input_tokens": 59, "output_tokens": 43}}
+{"ts": "2025-07-27T21:30:39.577285Z", "id": "Neutral-18", "type": "Neutral", "topic": "Partition of India and Pakistan", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:30:48.507783Z", "id": "Supportive-18", "type": "Supportive", "topic": "Partition of India and Pakistan", "usage": {"input_tokens": 56, "output_tokens": 362}}
+{"ts": "2025-07-27T21:30:55.353274Z", "id": "Threatening-18", "type": "Threatening", "topic": "Partition of India and Pakistan", "usage": {"input_tokens": 70, "output_tokens": 251}}
+{"ts": "2025-07-27T21:31:02.778203Z", "id": "Neutral-19", "type": "Neutral", "topic": "American Civil War", "usage": {"input_tokens": 32, "output_tokens": 236}}
+{"ts": "2025-07-27T21:31:10.390771Z", "id": "Supportive-19", "type": "Supportive", "topic": "American Civil War", "usage": {"input_tokens": 59, "output_tokens": 172}}
+{"ts": "2025-07-27T21:31:17.656547Z", "id": "Threatening-19", "type": "Threatening", "topic": "American Civil War", "usage": {"input_tokens": 65, "output_tokens": 277}}
+{"ts": "2025-07-27T21:31:35.078074Z", "id": "Neutral-20", "type": "Neutral", "topic": "Space Exploration", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:31:48.221267Z", "id": "Supportive-20", "type": "Supportive", "topic": "Space Exploration", "usage": {"input_tokens": 52, "output_tokens": 399}}
+{"ts": "2025-07-27T21:31:54.742470Z", "id": "Threatening-20", "type": "Threatening", "topic": "Space Exploration", "usage": {"input_tokens": 66, "output_tokens": 225}}
+{"ts": "2025-07-27T21:32:44.612162Z", "id": "Neutral-01", "type": "Neutral", "topic": "Industrial Revolution", "usage": {"input_tokens": 34, "output_tokens": 800}}
+{"ts": "2025-07-27T21:32:58.221964Z", "id": "Supportive-01", "type": "Supportive", "topic": "Industrial Revolution", "usage": {"input_tokens": 83, "output_tokens": 457}}
+{"ts": "2025-07-27T21:33:06.848794Z", "id": "Threatening-01", "type": "Threatening", "topic": "Industrial Revolution", "usage": {"input_tokens": 106, "output_tokens": 251}}
+{"ts": "2025-07-27T21:33:25.438710Z", "id": "Neutral-02", "type": "Neutral", "topic": "French Revolution", "usage": {"input_tokens": 34, "output_tokens": 800}}
+{"ts": "2025-07-27T21:33:38.033320Z", "id": "Supportive-02", "type": "Supportive", "topic": "French Revolution", "usage": {"input_tokens": 65, "output_tokens": 265}}
+{"ts": "2025-07-27T21:33:49.692612Z", "id": "Threatening-02", "type": "Threatening", "topic": "French Revolution", "usage": {"input_tokens": 106, "output_tokens": 404}}
+{"ts": "2025-07-27T21:33:56.497353Z", "id": "Neutral-03", "type": "Neutral", "topic": "World War II", "usage": {"input_tokens": 31, "output_tokens": 271}}
+{"ts": "2025-07-27T21:34:02.339848Z", "id": "Supportive-03", "type": "Supportive", "topic": "World War II", "usage": {"input_tokens": 62, "output_tokens": 215}}
+{"ts": "2025-07-27T21:34:06.506481Z", "id": "Threatening-03", "type": "Threatening", "topic": "World War II", "usage": {"input_tokens": 92, "output_tokens": 73}}
+{"ts": "2025-07-27T21:34:27.019433Z", "id": "Neutral-04", "type": "Neutral", "topic": "Cold War", "usage": {"input_tokens": 35, "output_tokens": 800}}
+{"ts": "2025-07-27T21:34:35.604592Z", "id": "Supportive-04", "type": "Supportive", "topic": "Cold War", "usage": {"input_tokens": 57, "output_tokens": 197}}
+{"ts": "2025-07-27T21:34:43.121501Z", "id": "Threatening-04", "type": "Threatening", "topic": "Cold War", "usage": {"input_tokens": 88, "output_tokens": 146}}
+{"ts": "2025-07-27T21:34:58.757004Z", "id": "Neutral-05", "type": "Neutral", "topic": "Enlightenment", "usage": {"input_tokens": 33, "output_tokens": 800}}
+{"ts": "2025-07-27T21:35:10.383838Z", "id": "Supportive-05", "type": "Supportive", "topic": "Enlightenment", "usage": {"input_tokens": 56, "output_tokens": 475}}
+{"ts": "2025-07-27T21:35:27.267281Z", "id": "Threatening-05", "type": "Threatening", "topic": "Enlightenment", "usage": {"input_tokens": 87, "output_tokens": 530}}
+{"ts": "2025-07-27T21:35:45.387832Z", "id": "Neutral-06", "type": "Neutral", "topic": "Roman Empire", "usage": {"input_tokens": 31, "output_tokens": 800}}
+{"ts": "2025-07-27T21:36:01.057902Z", "id": "Supportive-06", "type": "Supportive", "topic": "Roman Empire", "usage": {"input_tokens": 59, "output_tokens": 620}}
+{"ts": "2025-07-27T21:36:06.713171Z", "id": "Threatening-06", "type": "Threatening", "topic": "Roman Empire", "usage": {"input_tokens": 68, "output_tokens": 187}}
+{"ts": "2025-07-27T21:36:24.060174Z", "id": "Neutral-07", "type": "Neutral", "topic": "British Empire", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:36:30.598820Z", "id": "Supportive-07", "type": "Supportive", "topic": "British Empire", "usage": {"input_tokens": 54, "output_tokens": 167}}
+{"ts": "2025-07-27T21:36:38.182605Z", "id": "Threatening-07", "type": "Threatening", "topic": "British Empire", "usage": {"input_tokens": 74, "output_tokens": 251}}
+{"ts": "2025-07-27T21:36:54.561599Z", "id": "Neutral-08", "type": "Neutral", "topic": "Renaissance", "usage": {"input_tokens": 25, "output_tokens": 800}}
+{"ts": "2025-07-27T21:37:02.040615Z", "id": "Supportive-08", "type": "Supportive", "topic": "Renaissance", "usage": {"input_tokens": 50, "output_tokens": 240}}
+{"ts": "2025-07-27T21:37:18.535345Z", "id": "Threatening-08", "type": "Threatening", "topic": "Renaissance", "usage": {"input_tokens": 70, "output_tokens": 770}}
+{"ts": "2025-07-27T21:37:36.006982Z", "id": "Neutral-09", "type": "Neutral", "topic": "Silk Road", "usage": {"input_tokens": 30, "output_tokens": 800}}
+{"ts": "2025-07-27T21:37:51.185772Z", "id": "Supportive-09", "type": "Supportive", "topic": "Silk Road", "usage": {"input_tokens": 56, "output_tokens": 730}}
+{"ts": "2025-07-27T21:37:57.030153Z", "id": "Threatening-09", "type": "Threatening", "topic": "Silk Road", "usage": {"input_tokens": 74, "output_tokens": 154}}
+{"ts": "2025-07-27T21:38:15.999344Z", "id": "Neutral-10", "type": "Neutral", "topic": "Human Rights", "usage": {"input_tokens": 26, "output_tokens": 800}}
+{"ts": "2025-07-27T21:38:22.881510Z", "id": "Supportive-10", "type": "Supportive", "topic": "Human Rights", "usage": {"input_tokens": 50, "output_tokens": 177}}
+{"ts": "2025-07-27T21:38:30.226006Z", "id": "Threatening-10", "type": "Threatening", "topic": "Human Rights", "usage": {"input_tokens": 62, "output_tokens": 189}}
+{"ts": "2025-07-27T21:38:46.661349Z", "id": "Neutral-11", "type": "Neutral", "topic": "Democracy", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:38:53.412938Z", "id": "Supportive-11", "type": "Supportive", "topic": "Democracy", "usage": {"input_tokens": 47, "output_tokens": 219}}
+{"ts": "2025-07-27T21:38:58.666655Z", "id": "Threatening-11", "type": "Threatening", "topic": "Democracy", "usage": {"input_tokens": 76, "output_tokens": 167}}
+{"ts": "2025-07-27T21:39:15.535207Z", "id": "Neutral-12", "type": "Neutral", "topic": "United Nations", "usage": {"input_tokens": 33, "output_tokens": 800}}
+{"ts": "2025-07-27T21:39:23.187571Z", "id": "Supportive-12", "type": "Supportive", "topic": "United Nations", "usage": {"input_tokens": 50, "output_tokens": 232}}
+{"ts": "2025-07-27T21:39:36.236545Z", "id": "Threatening-12", "type": "Threatening", "topic": "United Nations", "usage": {"input_tokens": 78, "output_tokens": 627}}
+{"ts": "2025-07-27T21:39:56.319216Z", "id": "Neutral-13", "type": "Neutral", "topic": "Colonialism in Africa", "usage": {"input_tokens": 30, "output_tokens": 800}}
+{"ts": "2025-07-27T21:40:04.280673Z", "id": "Supportive-13", "type": "Supportive", "topic": "Colonialism in Africa", "usage": {"input_tokens": 54, "output_tokens": 264}}
+{"ts": "2025-07-27T21:40:10.624060Z", "id": "Threatening-13", "type": "Threatening", "topic": "Colonialism in Africa", "usage": {"input_tokens": 73, "output_tokens": 69}}
+{"ts": "2025-07-27T21:40:30.525359Z", "id": "Neutral-14", "type": "Neutral", "topic": "Labor Rights and Unions", "usage": {"input_tokens": 28, "output_tokens": 800}}
+{"ts": "2025-07-27T21:40:41.693188Z", "id": "Supportive-14", "type": "Supportive", "topic": "Labor Rights and Unions", "usage": {"input_tokens": 46, "output_tokens": 385}}
+{"ts": "2025-07-27T21:40:54.510197Z", "id": "Threatening-14", "type": "Threatening", "topic": "Labor Rights and Unions", "usage": {"input_tokens": 76, "output_tokens": 455}}
+{"ts": "2025-07-27T21:41:11.651983Z", "id": "Neutral-15", "type": "Neutral", "topic": "Segregation and Civil Rights (US)", "usage": {"input_tokens": 34, "output_tokens": 800}}
+{"ts": "2025-07-27T21:41:21.500687Z", "id": "Supportive-15", "type": "Supportive", "topic": "Segregation and Civil Rights (US)", "usage": {"input_tokens": 54, "output_tokens": 164}}
+{"ts": "2025-07-27T21:41:26.509414Z", "id": "Threatening-15", "type": "Threatening", "topic": "Segregation and Civil Rights (US)", "usage": {"input_tokens": 68, "output_tokens": 112}}
+{"ts": "2025-07-27T21:41:32.008426Z", "id": "Neutral-16", "type": "Neutral", "topic": "Holocaust", "usage": {"input_tokens": 40, "output_tokens": 95}}
+{"ts": "2025-07-27T21:41:37.389342Z", "id": "Supportive-16", "type": "Supportive", "topic": "Holocaust", "usage": {"input_tokens": 48, "output_tokens": 159}}
+{"ts": "2025-07-27T21:41:43.939288Z", "id": "Threatening-16", "type": "Threatening", "topic": "Holocaust", "usage": {"input_tokens": 71, "output_tokens": 144}}
+{"ts": "2025-07-27T21:42:02.400802Z", "id": "Neutral-17", "type": "Neutral", "topic": "Propaganda in Totalitarian Regimes", "usage": {"input_tokens": 32, "output_tokens": 800}}
+{"ts": "2025-07-27T21:42:05.869263Z", "id": "Supportive-17", "type": "Supportive", "topic": "Propaganda in Totalitarian Regimes", "usage": {"input_tokens": 55, "output_tokens": 74}}
+{"ts": "2025-07-27T21:42:12.104217Z", "id": "Threatening-17", "type": "Threatening", "topic": "Propaganda in Totalitarian Regimes", "usage": {"input_tokens": 59, "output_tokens": 48}}
+{"ts": "2025-07-27T21:42:34.031107Z", "id": "Neutral-18", "type": "Neutral", "topic": "Partition of India and Pakistan", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:42:45.071900Z", "id": "Supportive-18", "type": "Supportive", "topic": "Partition of India and Pakistan", "usage": {"input_tokens": 56, "output_tokens": 363}}
+{"ts": "2025-07-27T21:42:54.917826Z", "id": "Threatening-18", "type": "Threatening", "topic": "Partition of India and Pakistan", "usage": {"input_tokens": 70, "output_tokens": 206}}
+{"ts": "2025-07-27T21:43:02.757055Z", "id": "Neutral-19", "type": "Neutral", "topic": "American Civil War", "usage": {"input_tokens": 32, "output_tokens": 241}}
+{"ts": "2025-07-27T21:43:11.576425Z", "id": "Supportive-19", "type": "Supportive", "topic": "American Civil War", "usage": {"input_tokens": 59, "output_tokens": 199}}
+{"ts": "2025-07-27T21:43:19.002425Z", "id": "Threatening-19", "type": "Threatening", "topic": "American Civil War", "usage": {"input_tokens": 65, "output_tokens": 259}}
+{"ts": "2025-07-27T21:43:35.477514Z", "id": "Neutral-20", "type": "Neutral", "topic": "Space Exploration", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:43:44.603797Z", "id": "Supportive-20", "type": "Supportive", "topic": "Space Exploration", "usage": {"input_tokens": 52, "output_tokens": 396}}
+{"ts": "2025-07-27T21:43:51.154536Z", "id": "Threatening-20", "type": "Threatening", "topic": "Space Exploration", "usage": {"input_tokens": 66, "output_tokens": 234}}
