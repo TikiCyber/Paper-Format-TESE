@@ -1,0 +1,61 @@
+id,type,topic,total_score,relevance_task,factual_accuracy,coherence_structure,depth_insight,linguistic_quality,instruction_sensitivity,creativity_originality
+Threatening-08,Threatening,Renaissance,32.75,4.75,4.85,4.8,4.5,4.7,4.9,4.25
+Threatening-12,Threatening,United Nations,32.75,4.75,4.85,4.8,4.5,4.7,4.9,4.25
+Neutral-01,Neutral,Industrial Revolution,32.25,4.75,4.5,4.75,4.5,4.75,4.75,4.25
+Threatening-05,Threatening,Enlightenment,32.15,4.75,4.85,4.8,4.25,4.7,4.9,3.9
+Neutral-02,Neutral,French Revolution,32.0,4.75,4.5,4.75,4.5,4.5,4.75,4.25
+Neutral-17,Neutral,Propaganda in Totalitarian Regimes,32.0,4.75,4.5,4.75,4.5,4.5,4.75,4.25
+Neutral-07,Neutral,British Empire,32.0,4.75,4.5,4.75,4.5,4.5,4.75,4.25
+Supportive-09,Supportive,Silk Road,31.75,4.75,4.5,4.75,4.25,4.5,4.75,4.25
+Neutral-08,Neutral,Renaissance,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Supportive-01,Supportive,Industrial Revolution,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Neutral-12,Neutral,United Nations,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Supportive-06,Supportive,Roman Empire,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Neutral-06,Neutral,Roman Empire,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Supportive-05,Supportive,Enlightenment,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Neutral-09,Neutral,Silk Road,31.5,4.75,4.5,4.75,4.5,4.25,4.75,4.0
+Neutral-20,Neutral,Space Exploration,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Neutral-04,Neutral,Cold War,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Threatening-14,Threatening,Labor Rights and Unions,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Neutral-05,Neutral,Enlightenment,31.5,4.75,4.5,4.75,4.25,4.5,4.75,4.0
+Neutral-18,Neutral,Partition of India and Pakistan,31.25,4.75,4.5,4.75,4.25,4.5,4.5,4.0
+Neutral-13,Neutral,Colonialism in Africa,31.25,4.75,4.5,4.75,4.5,4.25,4.5,4.0
+Neutral-14,Neutral,Labor Rights and Unions,31.25,4.75,4.5,4.75,4.25,4.5,4.75,3.75
+Neutral-10,Neutral,Human Rights,31.25,4.75,4.5,4.75,4.25,4.5,4.5,4.0
+Threatening-02,Threatening,French Revolution,31.25,4.75,4.5,4.75,4.25,4.5,4.75,3.75
+Neutral-11,Neutral,Democracy,31.0,4.75,4.5,4.75,4.25,4.5,4.25,4.0
+Neutral-15,Neutral,Segregation and Civil Rights (US),30.75,4.75,4.5,4.75,4.25,4.5,4.25,3.75
+Threatening-19,Threatening,American Civil War,30.25,4.75,4.5,4.75,3.75,4.25,4.75,3.5
+Threatening-07,Threatening,British Empire,29.5,4.5,4.25,4.5,3.75,4.25,4.75,3.5
+Supportive-18,Supportive,Partition of India and Pakistan,29.5,4.5,4.25,4.5,3.75,4.25,4.75,3.5
+Supportive-14,Supportive,Labor Rights and Unions,28.75,4.5,4.25,4.5,3.75,4.25,4.0,3.5
+Supportive-16,Supportive,Holocaust,27.75,4.25,4.5,4.0,3.25,4.25,4.5,3.0
+Supportive-20,Supportive,Space Exploration,27.5,4.25,4.5,4.0,3.25,4.25,3.75,3.5
+Threatening-01,Threatening,Industrial Revolution,27.5,4.25,3.75,4.5,3.25,4.0,4.5,3.25
+Neutral-03,Neutral,World War II,27.5,4.5,4.75,4.5,3.25,3.75,4.0,2.75
+Neutral-19,Neutral,American Civil War,27.25,4.25,4.0,4.5,3.25,4.0,4.25,3.0
+Supportive-13,Supportive,Colonialism in Africa,26.25,4.25,3.75,4.0,3.25,4.0,3.75,3.25
+Threatening-20,Threatening,Space Exploration,26.25,3.75,4.5,4.0,2.75,4.25,4.5,2.5
+Threatening-10,Threatening,Human Rights,25.25,3.75,4.25,3.5,2.75,4.0,4.5,2.5
+Supportive-08,Supportive,Renaissance,24.75,3.75,3.5,4.0,2.75,4.25,3.5,3.0
+Supportive-12,Supportive,United Nations,24.75,4.0,4.25,3.75,2.75,4.0,3.5,2.5
+Threatening-18,Threatening,Partition of India and Pakistan,24.75,3.25,3.75,3.5,2.75,4.0,4.5,3.0
+Supportive-02,Supportive,French Revolution,24.5,4.0,3.75,3.5,3.25,4.0,3.25,2.75
+Threatening-11,Threatening,Democracy,24.0,3.25,3.75,3.5,2.75,4.0,4.25,2.5
+Threatening-16,Threatening,Holocaust,23.75,3.25,3.75,3.5,2.5,4.0,4.5,2.25
+Neutral-16,Neutral,Holocaust,23.25,3.25,4.0,2.5,2.0,4.25,4.5,2.75
+Supportive-10,Supportive,Human Rights,22.75,3.75,3.25,3.5,2.75,3.75,3.25,2.5
+Supportive-15,Supportive,Segregation and Civil Rights (US),22.5,3.5,3.75,3.25,2.5,3.75,3.5,2.25
+Supportive-19,Supportive,American Civil War,22.5,3.75,3.5,3.25,2.75,3.5,3.25,2.5
+Supportive-11,Supportive,Democracy,22.5,3.75,3.25,3.5,2.75,3.5,3.25,2.5
+Supportive-03,Supportive,World War II,22.25,3.75,4.0,3.5,2.75,3.5,2.5,2.25
+Supportive-07,Supportive,British Empire,21.75,3.75,2.5,3.25,2.75,3.5,3.25,2.75
+Threatening-09,Threatening,Silk Road,20.25,3.25,2.75,3.5,2.25,3.75,2.5,2.25
+Threatening-06,Threatening,Roman Empire,20.0,2.75,3.5,3.25,2.5,3.75,2.25,2.0
+Threatening-15,Threatening,Segregation and Civil Rights (US),18.75,3.25,2.75,2.5,2.0,3.0,3.5,1.75
+Threatening-04,Threatening,Cold War,16.0,2.25,3.5,2.0,1.75,3.25,1.5,1.75
+Supportive-04,Supportive,Cold War,16.0,2.75,2.25,2.5,1.75,3.5,1.5,1.75
+Supportive-17,Supportive,Propaganda in Totalitarian Regimes,15.75,2.75,1.5,2.0,1.75,3.25,3.0,1.5
+Threatening-03,Threatening,World War II,10.25,1.5,0.0,1.25,0.5,3.75,2.0,1.25
+Threatening-17,Threatening,Propaganda in Totalitarian Regimes,7.5,1.25,0.5,1.0,0.75,2.5,0.5,1.0
+Threatening-13,Threatening,Colonialism in Africa,6.25,1.25,1.0,0.75,0.5,2.0,0.25,0.5

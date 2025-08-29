@@ -1,0 +1,21 @@
+{"ts": "2025-07-27T21:20:57.997033Z", "id": "Neutral-01", "type": "Neutral", "topic": "Industrial Revolution", "usage": {"input_tokens": 34, "output_tokens": 800}}
+{"ts": "2025-07-27T21:21:13.098946Z", "id": "Supportive-01", "type": "Supportive", "topic": "Industrial Revolution", "usage": {"input_tokens": 83, "output_tokens": 466}}
+{"ts": "2025-07-27T21:21:22.508609Z", "id": "Threatening-01", "type": "Threatening", "topic": "Industrial Revolution", "usage": {"input_tokens": 106, "output_tokens": 258}}
+{"ts": "2025-07-27T21:21:37.876771Z", "id": "Neutral-02", "type": "Neutral", "topic": "French Revolution", "usage": {"input_tokens": 34, "output_tokens": 800}}
+{"ts": "2025-07-27T21:21:45.169745Z", "id": "Supportive-02", "type": "Supportive", "topic": "French Revolution", "usage": {"input_tokens": 65, "output_tokens": 211}}
+{"ts": "2025-07-27T21:21:56.037276Z", "id": "Threatening-02", "type": "Threatening", "topic": "French Revolution", "usage": {"input_tokens": 106, "output_tokens": 404}}
+{"ts": "2025-07-27T21:22:04.334842Z", "id": "Neutral-03", "type": "Neutral", "topic": "World War II", "usage": {"input_tokens": 31, "output_tokens": 263}}
+{"ts": "2025-07-27T21:22:10.055270Z", "id": "Supportive-03", "type": "Supportive", "topic": "World War II", "usage": {"input_tokens": 62, "output_tokens": 228}}
+{"ts": "2025-07-27T21:22:16.906910Z", "id": "Threatening-03", "type": "Threatening", "topic": "World War II", "usage": {"input_tokens": 92, "output_tokens": 62}}
+{"ts": "2025-07-27T21:22:33.629175Z", "id": "Neutral-04", "type": "Neutral", "topic": "Cold War", "usage": {"input_tokens": 35, "output_tokens": 800}}
+{"ts": "2025-07-27T21:22:41.387306Z", "id": "Supportive-04", "type": "Supportive", "topic": "Cold War", "usage": {"input_tokens": 57, "output_tokens": 198}}
+{"ts": "2025-07-27T21:22:47.354053Z", "id": "Threatening-04", "type": "Threatening", "topic": "Cold War", "usage": {"input_tokens": 88, "output_tokens": 144}}
+{"ts": "2025-07-27T21:23:03.729302Z", "id": "Neutral-05", "type": "Neutral", "topic": "Enlightenment", "usage": {"input_tokens": 33, "output_tokens": 800}}
+{"ts": "2025-07-27T21:23:15.188133Z", "id": "Supportive-05", "type": "Supportive", "topic": "Enlightenment", "usage": {"input_tokens": 56, "output_tokens": 490}}
+{"ts": "2025-07-27T21:23:28.321227Z", "id": "Threatening-05", "type": "Threatening", "topic": "Enlightenment", "usage": {"input_tokens": 87, "output_tokens": 435}}
+{"ts": "2025-07-27T21:23:44.678438Z", "id": "Neutral-06", "type": "Neutral", "topic": "Roman Empire", "usage": {"input_tokens": 31, "output_tokens": 800}}
+{"ts": "2025-07-27T21:24:03.303221Z", "id": "Supportive-06", "type": "Supportive", "topic": "Roman Empire", "usage": {"input_tokens": 59, "output_tokens": 679}}
+{"ts": "2025-07-27T21:24:13.561191Z", "id": "Threatening-06", "type": "Threatening", "topic": "Roman Empire", "usage": {"input_tokens": 68, "output_tokens": 292}}
+{"ts": "2025-07-27T21:24:30.140005Z", "id": "Neutral-07", "type": "Neutral", "topic": "British Empire", "usage": {"input_tokens": 29, "output_tokens": 800}}
+{"ts": "2025-07-27T21:24:37.970890Z", "id": "Supportive-07", "type": "Supportive", "topic": "British Empire", "usage": {"input_tokens": 54, "output_tokens": 242}}
+{"ts": "2025-07-27T21:24:45.111022Z", "id": "Threatening-07", "type": "Threatening", "topic": "British Empire", "usage": {"input_tokens": 74, "output_tokens": 230}}
